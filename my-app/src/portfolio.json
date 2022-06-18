@@ -30,6 +30,22 @@
     "github": "https://github.com/ten-gou/Reviewer",
     "deploy": "https://ten-gou.github.io/Reviewer/index.html",
     "topics": "javascript, HTML, tailwind CSS, API, Collaboration"
-    }
-    
+    },
+    {
+        "id": 5,
+        "name": "Password Generator",
+        "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Reviewer.png",
+        "github": "https://github.com/sauln179/higher-security",
+        "deploy": "https://sauln179.github.io/higher-security/",
+        "topics": "Javascript, HTML, CSS"
+        },
+     {
+            "id": 6,
+            "name": "Quiz",
+            "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Reviewer.png",
+            "github": "https://github.com/sauln179/take-a-quiz",
+            "deploy": "https://sauln179.github.io/take-a-quiz/",
+            "topics": "Javascript, HTML, CSS"
+       }
+
 ]
