@@ -14,7 +14,7 @@ return(
                 <p class="mt-5">
                 </p>
                 <p>
-                Download test <a href="https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Fake%20Resume.pdf" class="link">resume</a>
+                Download test <a href="https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Fake%20Resume.pdf" class="link">resume</a>
                 <br></br>
                 </p>
             </div>

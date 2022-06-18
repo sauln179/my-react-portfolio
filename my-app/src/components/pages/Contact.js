@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+//Placed in same as pages instead of utils dir since it would error.
 import { validateEmail } from './helper';
 
 function ContactForm() {

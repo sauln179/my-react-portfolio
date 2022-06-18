@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "Budget Tracker",
-    "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Budget-Tracker.png",
+    "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Budget-Tracker.png",
     "github": "https://github.com/sauln179/Online-Offline-Budget-Tracker",
     "deploy": "https://stormy-shelf-61039.herokuapp.com/",
     "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
@@ -10,7 +10,7 @@
     {
     "id": 2,
     "name": "Note Taker",
-    "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Note-Taker.png",
+    "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Note-Taker.png",
     "github": "https://github.com/sauln179/NoteTaker",
     "deploy": "https://note-reservation.herokuapp.com/",
     "topics": "express, db"
@@ -18,7 +18,7 @@
     {
     "id": 3,
     "name": "Work Scheduler",
-    "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Work-Scheduler.png",
+    "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Work-Scheduler.png",
     "github": "https://github.com/sauln179/work-scheduler",
     "deploy": "https://sauln179.github.io/work-scheduler/",
     "topics": "javascript, HTML, bootstrap"
@@ -26,7 +26,7 @@
     {
     "id": 4,
     "name": "Movie Reviewer",
-    "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Reviewer.png",
+    "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Reviewer.png",
     "github": "https://github.com/ten-gou/Reviewer",
     "deploy": "https://ten-gou.github.io/Reviewer/index.html",
     "topics": "javascript, HTML, tailwind CSS, API, Collaboration"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Password Generator",
-        "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Reviewer.png",
+        "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Password.png",
         "github": "https://github.com/sauln179/higher-security",
         "deploy": "https://sauln179.github.io/higher-security/",
         "topics": "Javascript, HTML, CSS"
@@ -42,7 +42,7 @@
      {
             "id": 6,
             "name": "Quiz",
-            "image": "https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/Reviewer.png",
+            "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Quiz.png",
             "github": "https://github.com/sauln179/take-a-quiz",
             "deploy": "https://sauln179.github.io/take-a-quiz/",
             "topics": "Javascript, HTML, CSS"

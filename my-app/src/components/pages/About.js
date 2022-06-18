@@ -16,10 +16,10 @@ function About() {
 
                             
                         </p>
-                        <button class="btn btn-default btn-lg">Get in Touch</button>
+        
                     </div>
                     <div class="col-sm-4">
-                     <img src="https://github.com/sauln179/my-react-portfolio/blob/main/my-app/assets/SaulN.jpeg"></img>
+                     <img src="https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/SaulN.jpeg"></img>
                     </div>
                 </div>
             </div>
