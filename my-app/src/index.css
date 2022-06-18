@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  /* from coolers: https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51 */
+  --sage:#D0CD94;
+  --platinum:#E8E9EB;
+  --ming:#3C787E;
+  --onyx:#313638;
+}
+*{
+  background: var(--sage);
+}
+.nav-link {
+  color: var(--ming);
+}
+
+.nav-items{
+  background: #241623;
+}
+.card {
+  background-color: var(--platinum);
+  border-radius: 5px;
+  height: 400px;
+  margin: 2rem;
+  position: relative;
+  width: 400px;
+  box-shadow: 0 2px 2px var(--onyx), 0 6px 12px var(--onyx);
+}
+.card-bottom, #topics {
+  background: var(--platinum);
+}
+.card .img-container {
+  height: 75%;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 10px;
+  background-color: var(--platinum);
+}
+
+.card .img-container img {
+  width: 100%;
+  padding: 25px;
+  margin-bottom: 20px;
+  background-color: var(--platinum);
+}
+
+.card .content {
+  font-size: 18px;
+  background-color: var(--platinum);
+  color: var(--orange-soda);
+  font-weight: bold;
+  text-align: center;
+}
+
+#project-icon {
+  background-color: var(--platinum);
+  padding: 5px;
+}
+
+#topics {
+  font-size: small;
+  font-style: italic;
+  color: var(--onyx);
+}
+
+#card-title {
+  margin-top: 10px;
+  color: var(--onyx);
+  text-shadow: 1px 1px 6px;
+  background:var(--platinum);
+}
+
+.wrapper {
+  padding-top: 50px;
+  justify-content: space-around;
+  height: 100%;
+  display: flex;
+  overflow: auto;
+  flex-flow: row wrap;
+  padding: 10px;
+  align-content: flex-start;
+}
+
+#contact-section {
+  justify-content: center;
+  margin: 20px;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+#footer {
+  background-color: var(--ming);
+}
+
+#footer .icon {
+  background-color: var(--ming);
+  margin-top: 20px;
+}
+
+#footer p {
+  background-color: var(--ming);
+  margin-top: 8px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: var(--ming);
+}
+#footer {
+  padding: 35px;
+  margin-top: 10px;
+}
+
+#front-back{
+  color:var(--onyx)
+}
+#react-icon {
+  background-color: var(--ming);
+}
