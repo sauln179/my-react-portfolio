@@ -46,6 +46,14 @@
             "github": "https://github.com/sauln179/take-a-quiz",
             "deploy": "https://sauln179.github.io/take-a-quiz/",
             "topics": "Javascript, HTML, CSS"
-       }
+       },
+       {
+        "id": 7,
+        "name": "Plelp",
+        "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Plelp.png",
+        "github": "https://github.com/sam-levin/plelp/tree/main",
+        "deploy": "https://sauln179.github.io/take-a-quiz/",
+        "topics": "Javascript, HTML, CSS"
+   }
 
 ]
