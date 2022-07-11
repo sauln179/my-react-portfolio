@@ -51,8 +51,8 @@
         "id": 7,
         "name": "Plelp",
         "image": "https://github.com/sauln179/my-react-portfolio/raw/main/my-app/assets/Plelp.png",
-        "github": "https://github.com/sam-levin/plelp/tree/main",
-        "deploy": "https://sauln179.github.io/take-a-quiz/",
+        "github": "https://github.com/sam-levin/plelp",
+        "deploy": "https://intense-beach-35555.herokuapp.com/",
         "topics": "Javascript, HTML, CSS"
    }
 
